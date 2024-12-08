@@ -1,5 +1,5 @@
 
-# Wheeled Leg Jumpinf Robot
+# Wheeled Leg Jumping Robot
 ## Introduction:
 - This project includes the design of and analysis of Wheeled Leg Jumping Robot utilizing commercially available servo motors.
 - Analysis are conducted in MATLAB for the purpose of this project.
