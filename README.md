@@ -1,10 +1,22 @@
 
 # Wheeled Leg Jumping Robot
+## Contributors:
+Han Hu
+Jiajin Yuan
+Fanzhen Kong
+Kai Zhang
+Yuyang Gao
+
+## Disclaimer:
+The code in this project is to provide references for designs in Wheeled Leg Jumping robot which is a robot design currently studied by many groups. The publification of this repository is made under the assumption that no group or individual will present these works as their own coursework in the stated course (MIE301 at University of Toronto) for the forseeable future. The contributors strongly condemns any such attempts as it is a clear sign of Academic misconduct. 
+
 ## Introduction:
 - This project includes the design of and analysis of Wheeled Leg Jumping Robot utilizing commercially available servo motors.
 - Analysis are conducted in MATLAB for the purpose of this project.
+
 ## Installation:
 Download the .zip file for CAD model and the MATLAB code folder for code
+
 ## Referenced Work:
 - [1] T. Guo et al., “Design and dynamic analysis of jumping wheel-legged robot in complex terrain environment,” Frontiers, https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2022.1066714/full (accessed Nov. 1, 2024).
 - [2] Y. Zhang, L. Zhang, W. Wang , Y. Li, and Q. Zhang, “Design and implementation of a two-wheel and hopping robot with a linkage mechanism | IEEE Journals & Magazine | IEEE Xplore,” IEEEAccess, https://ieeexplore.ieee.org/document/8419761/ (accessed Nov. 2, 2024). 
