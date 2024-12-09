@@ -1,11 +1,11 @@
 
 # Wheeled Leg Jumping Robot
 ## Contributors:
-Han Hu
-Jiajin Yuan
-Fanzhen Kong
-Kai Zhang
-Yuyang Gao
+- Han Hu
+- Jiajin Yuan
+- Fanzhen Kong
+- Kai Zhang
+- Yuyang Gao
 
 ## Disclaimer:
 The code in this project is to provide references for designs in Wheeled Leg Jumping robot which is a robot design currently studied by many groups. The publification of this repository is made under the assumption that no group or individual will present these works as their own coursework in the stated course (MIE301 at University of Toronto) for the forseeable future. The contributors strongly condemns any such attempts as it is a clear sign of Academic misconduct. 
